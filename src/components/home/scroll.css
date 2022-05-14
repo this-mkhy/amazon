@@ -1,0 +1,18 @@
+.scrollContainer{
+    display: flex;
+    overflow-x: scroll;
+    position: sticky;
+    cursor: grab;
+
+}
+
+::-webkit-scrollbar {
+    width: 2px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border: 5px solid transparent;
+    border-radius: 20px;
+    background-color: #6a696e;
+    background-clip: content-box;
+}

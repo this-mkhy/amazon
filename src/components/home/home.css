@@ -1,0 +1,33 @@
+.home {
+    display: flex;
+    justify-content: center;
+    max-width: 1500px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+ 
+.image {
+    width: 100%;
+    z-index: -1000;
+    mask-image: linear-gradient(black, transparent);
+    margin-bottom: -350px;
+}
+
+.row {
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    z-index: 1;
+}
+  
+
+@media only screen and (max-width: 500px) {
+    .row {
+        display: grid;
+    }
+
+    .image {
+        margin-bottom: -50px;
+        width: 100%;
+    }
+}
