@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "title": "Entry-level iPhone 12 128GB Purple",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000",
+        "price": 800.96,
+        "rating": 4
+    },
+    {
+        "id": "2",
+        "title": "Apple iPhone 12, Blue",
+        "imageUrl": "https://alarm-stores.com/wp-content/uploads/2020/10/iphone-12-pro-blue-hero.png",
+        "price": 1250.96,
+        "rating": 5
+    },
+    {
+        "id": "3",
+        "title": "iPhone 12 mini 64GB White",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343705000",
+        "price": 500.96,
+        "rating": 3
+    },
+    {
+        "id": "4",
+        "title": "Apple iPhone 12 Pro Max 128GB Blue",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqjg2D0J4NdTpyeY5m_huns4h2hQbUyjq4A&usqp=CAU",
+        "price": 2000.99,
+        "rating": 5
+    },
+    {
+        "id": "1",
+        "title": "iPhone 12 128GB Purple",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000",
+        "price": 800.96,
+        "rating": 4
+    },
+    {
+        "id": "2",
+        "title": "Apple iPhone 12 128GB 4 GB RAM, Blue",
+        "imageUrl": "https://alarm-stores.com/wp-content/uploads/2020/10/iphone-12-pro-blue-hero.png",
+        "price": 1250.96,
+        "rating": 5
+    },
+    {
+        "id": "3",
+        "title": "iPhone 12 mini 64GB White",
+        "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-white-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343705000",
+        "price": 500.96,
+        "rating": 3
+    },
+    {
+        "id": "4",
+        "title": "Apple iPhone 12 Pro Max 128GB Blue",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqjg2D0J4NdTpyeY5m_huns4h2hQbUyjq4A&usqp=CAU",
+        "price": 2000.99,
+        "rating": 5
+    }
+]

@@ -54,20 +54,38 @@
     width: 100%;
 }
 
+.egyFlag{
+    height: 20px; 
+    width: 20px; 
+    margin: 12px;
+}
+
+
 .login {
     display: flex;
     flex-direction: column;
     padding-left: 8px;
+    color: rgb(11, 51, 252);
 }
+
+/* .login:hover, .egyFlag:hover, .orders:hover, .cart:hover{
+    border: 2px solid rgb(255, 255, 255);
+    padding: 3px;
+} */
 
 a{
     text-decoration: none;
     color: white;
 }
-   
+    
+/* a:hover{
+    color: rgb(173, 173, 200);
+}  */
+
 .hello{
     font-size: 10px;
 }
+
 .account{
     font-size: 13px;
     font-weight: 800;
@@ -84,7 +102,6 @@ a{
     font-size: 13px;
     font-weight: 800;
     margin-right: 20px;
-
 }
 
 .shopping {

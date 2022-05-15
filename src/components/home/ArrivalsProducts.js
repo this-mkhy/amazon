@@ -2,7 +2,7 @@ import React from 'react'
 import Product from "./Product";
 import "./home.css"; 
   
-function Home2() {
+function ArrivalsProducts() {
   return (
     <div className="home">
       <div className="container">
@@ -40,4 +40,4 @@ function Home2() {
     </div>
   )
 }
-export default Home2
+export default ArrivalsProducts

@@ -3,7 +3,7 @@
     overflow-x: scroll;
     position: sticky;
     cursor: grab;
-
+    max-width: 1510px;
 }
 
 ::-webkit-scrollbar {

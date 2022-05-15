@@ -11,7 +11,7 @@ function Search() {
         <div className="search">
             <input className="searchInput" type="text" />
             <SearchIcon className="searchIcon" />
-            <img src={Egy} alt="Egypt flag" style={{height: "20px", width: "20px", margin: "12px"}}/>
+            <img className="egyFlag" src={Egy} alt="Egypt flag"/>
             <ArrowDropDownIcon style={{color: "#ffffff", marginLeft:"-17"}}/>
         </div>
 

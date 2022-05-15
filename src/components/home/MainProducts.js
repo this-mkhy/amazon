@@ -3,7 +3,7 @@ import React from 'react'
 import Product from "./Product";
 import "./home.css"; 
 
-function Home1() {
+function MainProducts() {
   return (
     <div className="home">
       <div className="container">
@@ -55,7 +55,7 @@ function Home1() {
           />
           <Product
             id="7"
-            title="Women's Clothing "
+            title="Women's Clothing"
             price={250.99}
             rating={3}
             image="https://images.contentstack.io/v3/assets/blta13d3f2430daf2db/blt86d0c3ac3650e3ec/627123e05d936230ca8eaf46/DSK_Promo_Fluid_4Offer_Alt4_Carousel_1080X1080_A_Category3.jpg?format=pjpg&auto=webp&quality=60&fit=bounds"
@@ -63,7 +63,7 @@ function Home1() {
           <Product
             id="8"
             title="Amazon Prime Video"
-            price={ 139.00}
+            price={139.00}
             rating={5}
             image="https://www.pinkvilla.com/files/styles/amp_metadata_content_image_min_696px_wide/public/ios_users_can_now_share_30-sec_video_clips_from_amazon_prime_video_on_social_media_0.jpg?itok=MOzKrzHO"
           />
@@ -72,4 +72,4 @@ function Home1() {
     </div>
   )
 }
-export default Home1
+export default MainProducts

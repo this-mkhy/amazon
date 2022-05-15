@@ -1,0 +1,89 @@
+[
+    {
+        "id": "1",
+        "title": "Laptops | Up to 10% off",
+        "imageUrl": "https://i5.walmartimages.com/asr/9a1753f5-103a-4601-a41d-0fb6dca615be.8b951e44a5583012faae538e547c23f0.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+        "price": 900,
+        "rating": 4
+    },
+    {
+        "id": "2",
+        "title": "Kitchen appliances",
+        "imageUrl": "https://graphicriver.img.customer.envatousercontent.com/files/271849073/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=01c60848e12d3fac5e7c9d316d640ce6",
+        "price": 500.0,
+        "rating": 3
+    },
+    {
+        "id": "3",
+        "title": "Your favorite makeup",
+        "imageUrl": "https://cdn2.momjunction.com/wp-content/uploads/2021/03/Best-Makeup-Brands-In-India-In-910x1024.jpg",
+        "price": 199.99,
+        "rating": 2
+    },
+    {
+        "id": "4",
+        "title": "Kids & Baby one-stop shop",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ2u8S6herI6ryN5VGUSLur3XhU5nXaKU999U3Zuz1eWBHQwh6Uu1AHhBFHob2jznj060&usqp=CAU",
+        "price": 50.99,
+        "rating": 4
+    },
+    {
+        "id": "5",
+        "title": "Sports & Fitness",
+        "imageUrl": "https://image.made-in-china.com/2f0j00VehRkHvlZPqB/Barbell-Yoga-Mat-Fitness-Equipment-Strength-Sports-Exercise-Dumbbell-Gym-Equipment-Accessories.jpg",
+        "price": 700.99,
+        "rating": 5
+    },
+    {
+        "id": "6",
+        "title": "Men's Clothing",
+        "imageUrl": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/4de49fb9e6b146149ddbaca000cb9ff9_9366/adidas-designed-2-move-3-stripes-primeblue-shorts.jpg",
+        "price": 200.99,
+        "rating": 3
+    },
+    {
+        "id": "7",
+        "title": "Women's Clothing",
+        "imageUrl": "https://images.contentstack.io/v3/assets/blta13d3f2430daf2db/blt86d0c3ac3650e3ec/627123e05d936230ca8eaf46/DSK_Promo_Fluid_4Offer_Alt4_Carousel_1080X1080_A_Category3.jpg?format=pjpg&auto=webp&quality=60&fit=bounds",
+        "price": 250.99,
+        "rating": 3
+    },
+    {
+        "id": "8",
+        "title": "Amazon Prime Video",
+        "imageUrl": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image_min_696px_wide/public/ios_users_can_now_share_30-sec_video_clips_from_amazon_prime_video_on_social_media_0.jpg?itok=MOzKrzHO",
+        "price": 139.00,
+        "rating": 5
+    },
+    {
+        "id": "9",
+        "title": "New arrivals | Eyewear",
+        "imageUrl": "https://i.pinimg.com/originals/d0/f7/8f/d0f78ff4ae4a81ac886c594f8f8e6797.jpg",
+        "price": 200.99,
+        "rating": 4
+    },
+    {
+        "id": "10",
+        "title": "best audio headphones",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-5aq19y50n5zmEybSGSRwSluQnIXqcNemm_0M36Cu8ZgHOkpF3VrJN7OJ0jATuh9ybk&usqp=CAU",
+        "price": 300.99,
+        "rating": 5
+    },
+    {
+        "id": "11",
+        "title": "Toys & Games",
+        "imageUrl": "https://media.istockphoto.com/photos/baby-kid-toys-collection-on-blue-and-yellow-background-picture-id1182187147?b=1&k=20&m=1182187147&s=170667a&w=0&h=JsGtp6FqZC6COltbP6iiW82Bg3CZEx2ChYCxS3DmN98=",
+        "price": 50.99,
+        "rating": 4
+    },
+    {
+        "id": "12",
+        "title": "Fashion Handbags for Women 2022",
+        "imageUrl": "https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjF5U2dnWlVQOVMuX0FDX1VMMTUwMF8uanBn.jpg",
+        "price": 150.96,
+        "rating": 5
+    }
+
+     
+
+]
